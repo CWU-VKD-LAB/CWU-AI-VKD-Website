@@ -26,6 +26,13 @@ header div {
     font-size: 125%;
 }
 
+header a h1{
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+
+}
+
 header button {
     background: none;
     border: none;
