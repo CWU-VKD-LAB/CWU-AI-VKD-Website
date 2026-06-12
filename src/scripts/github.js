@@ -11,7 +11,7 @@ let octokit = new Octokit();
 let username = "";
 
 // where to find the repo
-const gh_owner = "Deanosaur666";
+const gh_owner = "CWU-VKD-LAB";
 const gh_repo = "CWU-AI-VKD-Website"
 
 // shas for files loaded, so we can update them
